@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Biodata Mahasiswa</string>
+
+    <!-- Data Mahasiswa -->
+    <string name="data_mahasiswa">Data Mahasiswa</string>
+
+    <string name="label_nama">Nama</string>
+    <string name="nama">Raudatul Sholehah</string>
+
+    <string name="label_pt">Perguruan Tinggi</string>
+    <string name="pt">Universitas Lambung Mangkurat</string>
+
+    <string name="label_fakultas">Fakultas</string>
+    <string name="fakultas">Teknik</string>
+
+    <string name="label_prodi">Prodi</string>
+    <string name="prodi">Teknologi Informasi</string>
+
+    <string name="label_ttl">Tempat, Tanggal Lahir</string>
+    <string name="ttl">Banjarmasin, 27 November 2004</string>
+
+    <string name="label_email">Email</string>
+    <string name="email">raudtlsholhh27@gmail.com</string>
+
+    <string name="lihat_detail">Lihat Detail Biografi</string>
+    <string name="kembali">Kembali</string>
+
+    <string name="biografi_raudatul">
+        Nama saya Raudatul Sholehah, saat ini berusia 20 tahun dan sedang menempuh pendidikan di Universitas Lambung Mangkurat, Fakultas Teknik, Program Studi Teknologi Informasi, semester 4. Sebelumnya, saya menyelesaikan pendidikan di SMK Negeri 1 Banjarmasin pada tahun 2023 dengan jurusan Multimedia.\n\n
+        Selama masa SMK, saya pernah menjalani program magang di sebuah perusahaan percetakan di Banjarmasin. Pengalaman tersebut membekali saya dengan keterampilan di bidang multimedia, khususnya dalam desain grafis. Seiring dengan perjalanan saya di dunia teknologi informasi, saya mulai menaruh minat yang besar pada bidang UI/UX Design, dengan kemampuan menggunakan software seperti Figma dan Adobe Photoshop.\n\n
+        Di luar kemampuan teknis, saya juga aktif dalam berbagai kegiatan organisasi yang telah membentuk soft skill penting seperti kemampuan berkomunikasi, kreativitas dan inovasi, serta adaptabilitas dalam berbagai situasi. Dari berbagai pengalaman tersebut, saya berhasil meraih beberapa penghargaan, salah satunya adalah Juara Favorit Lomba Desain Poster Digital Tingkat Nasional tahun 2024.
+    </string>
+</resources>
